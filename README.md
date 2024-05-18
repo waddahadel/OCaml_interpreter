@@ -25,4 +25,3 @@ The evaluation phase is where the interpreter executes the program based on the 
 - **Function Execution**: It handles the execution of functions, including recursive calls and parameter passing.
 - **Control Flow**: The interpreter manages control flow constructs such as conditionals (if-else statements) and loops.
 
-By implementing these features, the OCaml Subset Interpreter provides a robust framework for understanding the key components of language interpretation, making it a valuable tool for educational purposes and experimentation with language design.
