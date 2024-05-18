@@ -1,4 +1,4 @@
-# OCaml Subset Interpreter
+# OCaml Interpreter
 
 This project is a full interpreter for a subset of OCaml, featuring parsing and lexing capabilities. The interpreter is designed to understand and execute a carefully selected subset of OCaml, making it ideal for learning about language design and implementation.
 
